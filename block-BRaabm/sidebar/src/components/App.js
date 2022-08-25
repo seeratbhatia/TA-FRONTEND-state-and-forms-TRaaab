@@ -1,4 +1,3 @@
-
 import data from "../data.json";
 import React from "react";
 import MovieDetails from "./MovieDetails";
